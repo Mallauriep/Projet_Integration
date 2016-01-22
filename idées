@@ -1,0 +1,15 @@
+On représentera le plan du métro par un graphe orienté :
+  - les sommets représenteront les quais, ascenseurs, etc
+  - les arcs représenteront les rails et les chemins à pieds.
+
+Comme schéma du plan soit :
+  -   On prend le vrai plan du métro de Paris ou juste une partie et dans ce cas faudra entrer en contact avec la SNCF (voir le mail
+        de Laroque)
+  - Soit on s'inspire du schéma de la fac, par exemple les gares seront les amphis, etc pour faciliter les choses (ce n'est qu'une idée
+      pour le début en attendant d'avoir le vrai schéma du métro)
+      
+On code sous java??
+
+La base de donnée on peut la faire sur Oracle
+
+Pour l'instant le côté application mobile on la laisse de côté
